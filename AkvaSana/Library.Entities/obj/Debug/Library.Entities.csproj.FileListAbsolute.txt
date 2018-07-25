@@ -1,0 +1,15 @@
+D:\AkvaSana\Library.Entities\bin\Debug\Library.Entities.dll.config
+D:\AkvaSana\Library.Entities\bin\Debug\Library.Entities.dll
+D:\AkvaSana\Library.Entities\bin\Debug\Library.Entities.pdb
+D:\AkvaSana\Library.Entities\bin\Debug\EntityFramework.dll
+D:\AkvaSana\Library.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\AkvaSana\Library.Entities\bin\Debug\Library.DomainAbstractions.dll
+D:\AkvaSana\Library.Entities\bin\Debug\Library.DomainAbstractions.pdb
+D:\AkvaSana\Library.Entities\bin\Debug\Library.DomainAbstractions.dll.config
+D:\AkvaSana\Library.Entities\bin\Debug\EntityFramework.xml
+D:\AkvaSana\Library.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\AkvaSana\Library.Entities\obj\Debug\Library.Entities.csprojAssemblyReference.cache
+D:\AkvaSana\Library.Entities\obj\Debug\Library.Entities.csproj.CoreCompileInputs.cache
+D:\AkvaSana\Library.Entities\obj\Debug\Library.Entities.csproj.CopyComplete
+D:\AkvaSana\Library.Entities\obj\Debug\Library.Entities.dll
+D:\AkvaSana\Library.Entities\obj\Debug\Library.Entities.pdb
